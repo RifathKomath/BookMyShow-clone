@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    text-decoration: none;
+   
+}
+.fnav{
+    display: flex;
+    justify-content:center;
+    justify-content: space-around;
+    background-color: white;
+    padding: 20px;
+    
+}
+.fnav .left{
+    display: flex;
+    margin-top: 1opx;
+    
+}
+.left img{
+    width: 15% ;
+    margin-left: 35px;
+}
+.left input{
+    margin-inline: 11px;
+   width: 420px;
+   height: 33px;
+ border-radius: 2px;
+   margin-top: 19px;
+   border:grey;
+   cursor: pointer;
+   font-size: medium;
+    
+}
+.fnav .right{
+    display: flex;
+    margin-top: 22px;
+}
+.right p{
+    margin-inline: 22px;
+    font-size: 17px;
+    margin-top: 4px;
+    cursor: pointer;
+   
+    
+
+}
+.right button{
+    margin-inline: 22px;
+    width: 80px;
+    height: 27px;
+    border-radius: 3px;
+    background-color: rgb(248, 68, 100);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    
+}
+.right i{
+    margin-inline: 22px; 
+    font-size: 22px;
+    cursor: pointer;
+}
+.s-nav{
+    display: flex;
+    justify-content:center;
+    justify-content: space-around;
+    padding: 9px;
+    background-color:rgb(245, 245, 245);
+    height: 30px;
+}
+.s-nav .s-left{
+    display: flex;
+   
+    
+}
+.s-nav .s-right{
+    display: flex;
+}
+.s-left{
+    margin-inline-start: 18px;
+}
+.s-right{
+    margin-inline-start: 18px;
+}
+.s-left p{
+    padding: 2%;
+   
+    cursor: pointer;
+}
+.s-right p{
+    
+    margin: 2%;
+    font-weight: 400;
+    cursor: pointer;
+}
+#Gift{
+    width: 118px;
+}
+.main img{
+    width: 100%;
+    cursor: pointer;
+}
+.main{
+    padding: 10px;
+}
+
+.main-container h2{
+    font-size: 24px;
+    margin-left: 85px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(51, 51, 51);
+}
+.cards{
+    background: #0000;
+}
+.cards img{
+    width: 200px;
+   
+    margin-left: 85px;
+    margin-top: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    
+}
+.banner img{
+    margin-left: 75px;
+    width: 1355px;
+    border-radius: 15px;
+    
+}
+.banner{
+    padding: 10px;
+    margin-top: 30px;
+    
+}
+.s-main h2{
+    font-size: 24px;
+    margin-left: 85px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(51, 51, 51); 
+}
+.cards-2 img{
+    margin-top: 10px;
+    border-radius: 15px;
+    margin-left: 85px;
+    width: 17%;
+    cursor: pointer;
+}
+.banner-2 img{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 1200px;
+    border: none;
+}
+.main-3{
+    margin-top: 50px;
+    background-color: rgb(43, 49, 72);
+    border-inline: none;
+    height: 600px;
+}
+.main-sub-3 h2{
+    font-size: 24px;
+    margin-left: 85px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#fff
+}
+.main-sub-3 p{
+    margin-left: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#fff
+
+}
+.last-container h2{
+    font-size: 24px;
+    margin-left: 85px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(51, 51, 51);  
+}
+.footer{
+    margin-top: 50px;
+    background-color: rgb(51, 51, 56);
+    height: 320px;
+}
+.footer img{
+    width: 350px;
+   margin-left: 38%;
+   margin-top: 30px;
+}
+.icons i{
+    font-size: 33px;
+    cursor: pointer;
+    justify-content: center;
+  margin-left: 50px;
+   
+}
+.icons i:hover{
+    color:#fff;
+}
+.icons{
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 475px;
+}
